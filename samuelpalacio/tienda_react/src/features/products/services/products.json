@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Camiseta Junior de Barranquilla 2024 Local",
+    "descripcion": "Equipación oficial de Junior 2024 con franjas rojas y blancas.",
+    "precio": 299900,
+    "stock": 30,
+    "categoria": "Fútbol",
+    "imagen": "https://olimpica.vtexassets.com/arquivos/ids/1380140-1200-auto?v=638772143057700000&width=1200&height=auto&aspect=true"
+  },
+  {
+    "id": 2,
+    "nombre": "Camiseta Independiente Santa Fe 2024 Local",
+    "descripcion": "Camiseta roja de Santa Fe, nuevo diseño con textura del león.",
+    "precio": 299900,
+    "stock": 25,
+    "categoria": "Fútbol",
+    "imagen": "https://imgs.search.brave.com/BYxLzAvL_ZR_KWXmf0VW6M2FVuw9oivgzNbUqc-xVFM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdz/LnNlYXJjaC5icmF2/ZS5jb20vWkRxMmVY/X3dGLVBGYU84MjFY/NzRESlpKWExhN2pj/SVRHQ1RhT29CaUxy/NC9yczpmaXQ6NTAw/OjA6MDowL2c6Y2Uv/YUhSMGNITTZMeTlt/ZFhSbi9iMlE1TUM1/amIyMHZZMlJ1L0wz/Tm9iM0F2Wm1sc1pY/TXYvUkdselpXNXZY/M05wYmw5MC9hWFIx/Ykc5Zk9DNXdibWNf/L2RqMHhOekl4TWpV/NU1qZzMvSm5kcFpI/Um9QVEUwTkRV"
+  },
+  {
+    "id": 3,
+    "nombre": "Camiseta Atlético Nacional 2025 Local",
+    "descripcion": "Camiseta verde y blanca de Nacional para el primer semestre de 2025.",
+    "precio": 400950,
+    "stock": 40,
+    "categoria": "Fútbol",
+    "imagen": "https://imgs.search.brave.com/nlg8qShjsXSjyTRSA9T14lCKhPflgRL1Q-D_WPh5N9Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5mYWxhYmVsbGEu/Y29tLmNvL2ZhbGFi/ZWxsYUNPLzE0MTQw/MDQ0Nl8wMS93aWR0/aD0yNDAsaGVpZ2h0/PTI0MCxxdWFsaXR5/PTcwLGZvcm1hdD13/ZWJwLGZpdD1wYWQ"
+  },
+  {
+    "id": 4,
+    "nombre": "Camiseta Deportes Tolima 2025 Local",
+    "descripcion": "Camiseta vino tinto y oro, uno de los diseños más valorados del FPC en 2025.",
+    "precio": 360000,
+    "stock": 20,
+    "categoria": "Fútbol",
+    "imagen": "https://imgs.search.brave.com/hU2S5GLQYiesE9D_Gj_8cwjGiTkbTOvAB5t6g_Wdgzo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mdXRn/b2Q5MC5jb20vY2Ru/L3Nob3AvZmlsZXMv/RGlzZW5vc2ludGl0/dWxvXzNfZDhjM2Ji/MzQtOTVjZS00NDg0/LTkyNjYtOWJlNmY5/ZjQ0YzU2LnBuZz92/PTE3NDg0NTMwNjEm/d2lkdGg9MTQ0NQ"
+  },
+  {
+    "id": 5,
+    "nombre": "Camiseta América de Cali 2025 Edición Especial",
+    "descripcion": "Modelo especial de América de Cali con el número 8, inspirado en Juanfer Quintero.",
+    "precio": 360000,
+    "stock": 15,
+    "categoria": "Fútbol",
+    "imagen": "https://imgs.search.brave.com/7UpVJDqQ9Zyo3eg_62pasnooi6UZg9gz3QQOe0bVJR8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vRF9RX05QXzJY/XzkxMTM4Mi1NQ084/NDU1OTU3NTk4Ml8w/NTIwMjUtRS53ZWJw"
+  }
+]
