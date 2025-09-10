@@ -1,6 +1,11 @@
+// ProductsPage.jsx
 import products from "../services/products.json";
+import { useCart } from "../../../context/CartContext";
+
 
 export function ProductsPage() {
+  const { addToCart } = useCart(); // 👈 usar hook
+
   return (
     <div className="p-6">
       <h1 className="text-3xl font-bold mb-10 text-center text-green-800">
@@ -28,7 +33,10 @@ export function ProductsPage() {
                 </span>
               </p>
 
-              <button className="mt-4 w-full bg-yellow-400 text-black font-semibold py-2 rounded-lg hover:bg-yellow-300 transition">
+              <button
+                onClick={() => addToCart(producto)} // 👈 agregar al carrito
+                className="mt-4 w-full bg-yellow-400 text-black font-semibold py-2 rounded-lg hover:bg-yellow-300 transition"
+              >
                 Agregar al carrito
               </button>
             </div>
